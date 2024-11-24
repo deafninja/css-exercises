@@ -1,0 +1,16 @@
+button {
+    font-family: 'Times New Roman', Helvetica, sans-serif;
+    font-size: 28px;
+}
+
+.primary {
+    background-color: #000;
+    border-color: #808080;
+    color: white;
+}
+
+.alternative {
+    background-color: #ffff00;
+    color: #000;
+    border-color: #000;
+}
