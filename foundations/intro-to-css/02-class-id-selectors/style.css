@@ -1,0 +1,20 @@
+.odd {
+    background-color: #F5347F;
+    font-family: 'DejaVu Sans', Verdana, sans-serif;
+}
+
+#div-01 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#p-01 {
+    font-size: 24px;
+}
+
+#div-02 {
+    background-color: hsl(120, 73%, 75%);
+    font-size: 24px;
+    font-weight: 700;
+}
+
